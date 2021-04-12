@@ -1,0 +1,25 @@
+*{
+	text-align: left;
+}
+body{
+	background-image: url(https://png.pngtree.com/thumb_back/fw800/background/20191011/pngtree-abstract-white-wallpaper-with-blue-paper-squares-image_319153.jpg);
+	background-size: cover;
+}
+h1{
+	text-align: center;
+	border: solid 5px black;
+	background-color: #669999;
+}
+h2{
+	text-align: center;
+
+
+}
+.a{
+	list-style: none;
+	display: inline-block;
+	border: 2px solid black;
+
+	padding: 5px 5px 5px 5px;
+	margin: 15px;
+}
